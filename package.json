@@ -17,6 +17,7 @@
     "faker": "^1.1.0"
   },
   "dependencies": {
+    "cors": "^2.4.2",
     "express": "^4.9.4"
   }
 }

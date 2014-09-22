@@ -1,0 +1,22 @@
+{
+  "name": "egghead-angularjs-authentication-with-jwt",
+  "version": "0.0.0",
+  "authors": [
+    "Kent C. Dodds <kent@doddsfamily.us>"
+  ],
+  "description": "Example AngularJS application featuring authentication with Javascript Web Tokens (JWT)",
+  "keywords": [
+    "angularjs",
+    "jwt",
+    "authentication"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

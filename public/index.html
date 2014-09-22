@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html ng-app="app">
+<head lang="en">
+  <meta charset="UTF-8">
+  <title>JWT Example</title>
+</head>
+<body ng-controller="MainCtrl as vm">
+
+<h1>Get Random User</h1>
+
+<div>
+  <button ng-click="vm.getRandomUser()">Get User</button>
+  <pre ng-bind="vm.randomUser | json"></pre>
+</div>
+
+
+<script src="bower_components/angular/angular.js"></script>
+<script src="app.js"></script>
+</body>
+</html>
