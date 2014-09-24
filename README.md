@@ -9,7 +9,7 @@ This project uses [node.js](http://nodejs.org/) and Node Package Manager (npm).
 
 `npm install` in the project folder.
 
-Additioanlly it uses Bower to grab AngularJS. With bower installed:
+Additionally it uses Bower to grab AngularJS. With bower installed:
 
 `bower install` in the project folder.
 
